@@ -32,4 +32,3 @@ Para mantener ordenado el desarrollo del proyecto a lo largo del curso, el repos
 * *v01:* Es la rama intermedia de integración. Funciona como un espacio de respaldo y validación general desde donde se une el código hacia main mediante fusiones (merges).
 * *actividad_uno:* Rama designada específicamente para alojar los avances, pruebas y modificaciones individuales correspondientes a la primera sesión o actividad previa sobre la estructura inicial de Pygame.
 * *actividad_dos:* Rama destinada a guardar los nuevos avances, mejoras visuales, lógica de control o complementos desarrollados en las sesiones posteriores del curso.
-*
