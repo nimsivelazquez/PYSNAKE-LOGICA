@@ -18,6 +18,12 @@ while running:
     screen.fill("black")
 
     # RENDER YOUR GAME HERE
+try:
+    pygame.mixer.music.load('nimsissonido.mp3')
+    print("Música cargada correctamente.")
+except pygame.error as e:
+    print(f"No se pudo cargar el archivo de música: {e}")
+
 
     # flip() the display to put your work on screen
     pygame.display.flip()
