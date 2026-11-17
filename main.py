@@ -13,7 +13,7 @@ musica_cargada = False
 
 # Cargar la música de fondo
 try:
-  pygame.mixer.music.load("Media/mikesonido.mp3")
+  pygame.mixer.music.load("Media/pysnake_rising.mp3")
   pygame.mixer.music.play(-1)  # -1 para que la música se repita en bucle
   musica_cargada = True
   print("Música cargada correctamente.")
